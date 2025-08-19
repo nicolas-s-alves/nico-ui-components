@@ -11,8 +11,15 @@
     "react-native": "*"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^12.0.2",
     "@types/react": "^19.1.10",
     "@types/react-native": "^0.72.8",
+    "semantic-release": "^24.2.7",
     "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "styled-components": "^6.1.19"
   }
 }
